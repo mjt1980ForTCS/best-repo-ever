@@ -1,7 +1,5 @@
 muhhahahahahahahahahahahah
 
-<<<<<<< HEAD
-11111111
-=======
+
 111111111111111111111
->>>>>>> origin/main
+
